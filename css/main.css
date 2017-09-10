@@ -769,6 +769,9 @@ footer p{
     .date{
        visibility: hidden;
     }
+     .nour{
+        width: 93%;
+    }
 }
 
 
