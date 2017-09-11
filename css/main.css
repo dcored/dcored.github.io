@@ -773,6 +773,20 @@ footer p{
         width: 93%;
     }
 }
+@media (min-width:769px) and (max-width:1024px){
+     .menu figure{
+          max-width:23%;
+          margin-right:5px;
+     }
+     .menu figure:last-child{
+          margin-right:0;
+     }
+     .menu figcaption{
+        max-width:100%; 
+     }
+     
+}
+
 
 
 
