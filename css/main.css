@@ -787,6 +787,11 @@ footer p{
      .menu figcaption p{
         font-size:14px; 
      }
+     .date{
+          right:18%;
+          top:142px;
+          
+     }
      
 }
 
