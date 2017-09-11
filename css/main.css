@@ -784,6 +784,9 @@ footer p{
      .menu figcaption{
         max-width:100%; 
      }
+     .menu figcaption p{
+        font-size:14px; 
+     }
      
 }
 
